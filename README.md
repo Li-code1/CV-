@@ -35,11 +35,11 @@ Se você deseja inspecionar ou clonar o código:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/Li-code1/](https://github.com/Li-code1/)[NOME-DO-REPOSITORIO].git
+    git clone [https://github.com/Li-code1/CV ](https://github.com/Li-code1/CV.git
     ```
 2.  **Entre no Diretório:**
     ```bash
-    cd [NOME-DO-REPOSITORIO]
+    cd CV
     ```
 3.  **Abra o Arquivo:**
     Abra o arquivo `index.html` diretamente no seu navegador.
